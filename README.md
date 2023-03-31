@@ -1,5 +1,8 @@
 # CNCD-ESP01
 
+🔴 **WARNING** - the hardware / firmware of the project is not stable and has a showstopper issue https://github.com/wireless-cnc/cncd-esp01/issues/1
+
+
 Firmware project for Wireless CNC targeting ESP-01 board.
 
 The firmware implements a simple WebSocket server that re-transmit all the messages from / to serial interface and WebSocket.
